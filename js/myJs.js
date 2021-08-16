@@ -1,13 +1,13 @@
 const textConfig = {
   text1: "He luu cậu!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm chồng tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "Lí do cậu thích tớ đi :vvvv",
+  text3: "Cậu thấy tớ rất xinhh có phải không ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là tớ rất rất xinhh rồiii :v",
+  text5: "Cậu xấu lắm???",
+  text6: "Xinh ơi là xinh <3",
+  text7: "Cậu thấy tớ xinh ở điểm nào :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu dễ thương vlllll",
+  text9: "Cậu cười tươi là xinh lắm đóoooo",
   text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
     "Tối nay mình xem phim chung nhaa cậu :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whattt'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
